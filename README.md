@@ -1,6 +1,6 @@
-# Project
+# Ecommerce Website
 
-Ecommerce Website
+
 Welcome to my ecommerce website! 
 
 Features:-
