@@ -26,5 +26,5 @@ Integration with third-party tools and APIs to enhance the editor's capabilities
 
 This website's was built using the following technologies:-
 
-HTML and CSS for the website layout and styling
-JavaScript for client-side interactivity
+HTML and CSS for the website layout and styling.
+JavaScript for client-side interactivity.
