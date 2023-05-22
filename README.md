@@ -24,7 +24,7 @@ Customization options to allow users to customize the editor's appearance and fu
 Integration with third-party tools and APIs to enhance the editor's capabilities and functionality.
 
 
-This website's was built using the following technologies :
+This website's was built using the following technologies:-
 
 HTML and CSS for the website layout and styling.
 JavaScript for client-side interactivity.
